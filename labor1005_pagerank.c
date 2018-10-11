@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include "std_lib_facilities.h"
 
 void kiir(double tomb[], int db)
 {
